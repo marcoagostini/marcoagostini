@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @marcoagostini
 - 👀 I’m interested in PowerShell, Azure, Microsoft, Web Development
 - 🌱 I’m currently learning JavaScript, C, C++, C#
-- 💞️ I’m looking to collaborate on diffrent projects
+- 💞️ I’m looking to collaborate on different projects
