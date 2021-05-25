@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @marcoagostini
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-marcoagostini/marcoagostini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in PowerShell, Azure, Microsoft, Web Development
+- 🌱 I’m currently learning JavaScript, C, C++, C#
+- 💞️ I’m looking to collaborate on diffrent projects
