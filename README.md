@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @marcoagostini
 - 👀 I’m interested in various Technologies
-- 🌱 I’m currently learning JavaScript, C, C++, C#
+- 🌱 I’m currently learning TypeScript, C++, C# and for sure a bit Python
 - 💞️ I’m looking to collaborate on different projects
