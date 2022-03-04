@@ -2,3 +2,4 @@
 - 👀 I’m interested in various Technologies
 - 🌱 I’m currently learning TypeScript, C++, C# and for sure a bit Python
 - 💞️ I’m looking to collaborate on different projects
+- I'm also on Gitlab: https://gitlab.com/marcoagostini
